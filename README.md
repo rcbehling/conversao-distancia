@@ -2,7 +2,7 @@
 
 ## Docker Hub Repository Link
 
-https://hub.docker.com/repository/docker/rcbehling/conversao-distancia
+https://hub.docker.com/r/rcbehling/conversao-distancia
 
 
 ## Docker Pulling Commands
